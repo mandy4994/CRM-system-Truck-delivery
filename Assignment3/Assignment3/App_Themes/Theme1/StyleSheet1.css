@@ -1,0 +1,38 @@
+﻿body {
+    background-color: lightyellow;
+    text-align: center;
+}
+
+.wrapper {
+    display: inline-block;
+    width: 800px;
+
+}
+
+.Labels {
+    float:left;
+    clear:left;
+    margin-top: 5px;
+    width: 200px;
+    text-align: left;
+
+}
+
+.cus_img {
+    float:left;
+    clear:right;
+}
+
+.TextBoxes {
+    float:left;
+    margin-top: 5px;
+}
+.h1{
+    text-decoration: underline;
+}
+
+.errors {
+    float:left;
+    margin-top: 5px;
+    margin-left: 5px;
+}

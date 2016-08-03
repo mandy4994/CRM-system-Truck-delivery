@@ -1,0 +1,8 @@
+C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\bin\Assignment3.dll
+C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\bin\Assignment3.pdb
+C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\bin\Apache.NMS.ActiveMQ.dll
+C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\bin\Apache.NMS.dll
+C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\bin\itextsharp.dll
+C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
