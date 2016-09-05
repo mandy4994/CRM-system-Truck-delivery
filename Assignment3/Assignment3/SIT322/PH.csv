@@ -1,0 +1,105 @@
+State,Holiday,Date,Value
+ACT,New Year,1/01/2015,TRUE
+ACT,Australia Day,26/01/2015,TRUE
+ACT,Good Friday,3/04/2015,TRUE
+ACT,Easter Saturday,4/04/2015,TRUE
+ACT,Easter Sunday,5/04/2015,FALSE
+ACT,Easter Monday,6/04/2015,TRUE
+ACT,Easter Tuesday,7/04/2015,FALSE
+ACT,Anzac Day,25/04/2015,TRUE
+ACT,Melbourne Day,3/11/2015,FALSE
+ACT,Christmas Eve,24/12/2015,FALSE
+ACT,Christmas Day,25/12/2015,TRUE
+ACT,Boxing Day,26/12/2015,TRUE
+ACT,New Year's Eve,31/12/2015,FALSE
+NSW,New Year,1/01/2015,TRUE
+NSW,Australia Day,26/01/2015,TRUE
+NSW,Good Friday,3/04/2015,TRUE
+NSW,Easter Saturday,4/04/2015,TRUE
+NSW,Easter Sunday,5/04/2015,TRUE
+NSW,Easter Monday,6/04/2015,TRUE
+NSW,Easter Tuesday,7/04/2015,FALSE
+NSW,Anzac Day,25/04/2015,TRUE
+NSW,Melbourne Day,3/11/2015,FALSE
+NSW,Christmas Eve,24/12/2015,FALSE
+NSW,Christmas Day,25/12/2015,TRUE
+NSW,Boxing Day,26/12/2015,TRUE
+NSW,New Year's Eve,31/12/2015,FALSE
+NT,New Year,1/01/2015,TRUE
+NT,Australia Day,26/01/2015,TRUE
+NT,Good Friday,3/04/2015,TRUE
+NT,Easter Saturday,4/04/2015,TRUE
+NT,Easter Sunday,5/04/2015,FALSE
+NT,Easter Monday,6/04/2015,TRUE
+NT,Easter Tuesday,7/04/2015,FALSE
+NT,Anzac Day,25/04/2015,TRUE
+NT,Melbourne Day,3/11/2015,FALSE
+NT,Christmas Eve,24/12/2015,FALSE
+NT,Christmas Day,25/12/2015,TRUE
+NT,Boxing Day,26/12/2015,TRUE
+NT,New Year's Eve,31/12/2015,FALSE
+QLD,New Year,1/01/2015,TRUE
+QLD,Australia Day,26/01/2015,TRUE
+QLD,Good Friday,3/04/2015,TRUE
+QLD,Easter Saturday,4/04/2015,TRUE
+QLD,Easter Sunday,5/04/2015,FALSE
+QLD,Easter Monday,6/04/2015,TRUE
+QLD,Easter Tuesday,7/04/2015,FALSE
+QLD,Anzac Day,25/04/2015,TRUE
+QLD,Melbourne Day,3/11/2015,FALSE
+QLD,Christmas Eve,24/12/2015,FALSE
+QLD,Christmas Day,25/12/2015,TRUE
+QLD,Boxing Day,26/12/2015,TRUE
+QLD,New Year's Eve,31/12/2015,FALSE
+SA,New Year,1/01/2015,TRUE
+SA,Australia Day,26/01/2015,TRUE
+SA,Good Friday,3/04/2015,TRUE
+SA,Easter Saturday,4/04/2015,TRUE
+SA,Easter Sunday,5/04/2015,FALSE
+SA,Easter Monday,6/04/2015,TRUE
+SA,Easter Tuesday,7/04/2015,FALSE
+SA,Anzac Day,25/04/2015,TRUE
+SA,Melbourne Day,3/11/2015,FALSE
+SA,Christmas Eve,24/12/2015,FALSE
+SA,Christmas Day,25/12/2015,TRUE
+SA,Boxing Day,26/12/2015,FALSE
+SA,New Year's Eve,31/12/2015,TRUE
+TAS,New Year,1/01/2015,TRUE
+TAS,Australia Day,26/01/2015,TRUE
+TAS,Good Friday,3/04/2015,TRUE
+TAS,Easter Saturday,4/04/2015,FALSE
+TAS,Easter Sunday,5/04/2015,FALSE
+TAS,Easter Monday,6/04/2015,TRUE
+TAS,Easter Tuesday,7/04/2015,TRUE
+TAS,Anzac Day,25/04/2015,TRUE
+TAS,Melbourne Day,3/11/2015,FALSE
+TAS,Christmas Eve,24/12/2015,FALSE
+TAS,Christmas Day,25/12/2015,TRUE
+TAS,Boxing Day,26/12/2015,TRUE
+TAS,New Year's Eve,31/12/2015,FALSE
+VIC,New Year,1/01/2015,TRUE
+VIC,Australia Day,26/01/2015,TRUE
+VIC,Good Friday,3/04/2015,TRUE
+VIC,Easter Saturday,4/04/2015,TRUE
+VIC,Easter Sunday,5/04/2015,FALSE
+VIC,Easter Monday,6/04/2015,TRUE
+VIC,Easter Tuesday,7/04/2015,FALSE
+VIC,Anzac Day,25/04/2015,TRUE
+VIC,Melbourne Day,3/11/2015,TRUE
+VIC,Christmas Eve,24/12/2015,FALSE
+VIC,Christmas Day,25/12/2015,TRUE
+VIC,Boxing Day,26/12/2015,TRUE
+VIC,New Year's Eve,31/12/2015,FALSE
+WA,New Year,1/01/2015,TRUE
+WA,Australia Day,26/01/2015,TRUE
+WA,Good Friday,3/04/2015,TRUE
+WA,Easter Saturday,4/04/2015,FALSE
+WA,Easter Sunday,5/04/2015,FALSE
+WA,Easter Monday,6/04/2015,TRUE
+WA,Easter Tuesday,7/04/2015,FALSE
+WA,Anzac Day,25/04/2015,TRUE
+WA,Melbourne Day,3/11/2015,FALSE
+WA,Christmas Eve,24/12/2015,FALSE
+WA,Christmas Day,25/12/2015,TRUE
+WA,Boxing Day,26/12/2015,TRUE
+WA,New Year's Eve,31/12/2015,FALSE

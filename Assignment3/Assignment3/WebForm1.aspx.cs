@@ -594,12 +594,12 @@ namespace Assignment3
             }
             // if (PostCodeList == null && PostCodeLocList == null) //This if statement isn't necessary, but if we don't have it we have to re-read our CSV file every time someone refreshs our web form! That's extremely slow.
             {
-                Load_Postcodes(@"C:\Users\Mandeep\Desktop\WebSite2\SIT322\PostCode-Full_20130228.csv"); //Put in your CSV file location here! Warning: Relative file paths go from the server executable file path, NOT your web app's "bin" file path. Use a full file path if you have problems
+                Load_Postcodes(@"\SIT322\PostCode-Full_20130228.csv"); //Put in your CSV file location here! Warning: Relative file paths go from the server executable file path, NOT your web app's "bin" file path. Use a full file path if you have problems
                 //                                                       The '@' denotes a string literal ('\' characters are treated as normal characters, i.e. as literal characters)
-                Load_Location(@"C:\Users\Mandeep\Desktop\WebSite2\SIT322\Australian_Post_Codes_Lat_Lon.csv");
-                Load_States(@"C:\Users\Mandeep\Desktop\WebSite2\SIT322\Path_new.csv");
-                Load_Rates(@"C:\Users\Mandeep\Desktop\WebSite2\SIT322\Rate2.csv");
-                Load_Holidays(@"C:\Users\Mandeep\Desktop\WebSite2\SIT322\PH.csv");
+                Load_Location(@"\SIT322\Australian_Post_Codes_Lat_Lon.csv");
+                Load_States(@"\SIT322\Path_new.csv");
+                Load_Rates(@"\SIT322\Rate2.csv");
+                Load_Holidays(@"\SIT322\PH.csv");
 
             }
 

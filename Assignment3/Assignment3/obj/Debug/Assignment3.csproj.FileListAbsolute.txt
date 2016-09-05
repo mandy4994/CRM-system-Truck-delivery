@@ -6,3 +6,7 @@ C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\b
 C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.dll
 C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
 C:\Users\Mandeep\Documents\Visual Studio 2012\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+G:\Github\CRM-system-Truck-delivery\Assignment3\Assignment3\bin\Assignment3.dll
+G:\Github\CRM-system-Truck-delivery\Assignment3\Assignment3\bin\Assignment3.pdb
+G:\Github\CRM-system-Truck-delivery\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+G:\Github\CRM-system-Truck-delivery\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
